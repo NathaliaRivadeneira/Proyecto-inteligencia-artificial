@@ -103,7 +103,7 @@ Se realizaron pruebas con 5 diferentes clasificadores utilizando el método grid
 
 - KNN – K vecinos más cercanos
 
-![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/KNN%20P.PNG)
+![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/Imagenes/KNN%20P.PNG)
 
 - Naive bayes gausiano
 
