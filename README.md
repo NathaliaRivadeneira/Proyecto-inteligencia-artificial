@@ -1,4 +1,5 @@
 **PROYECTO FINAL INTELIGENCIA ARTIFICIAL**
+**AIRCRAFT BLUEBOOK: ENGINE TYPE CLASSIFIER**
 
 **INTEGRANTES DEL GRUPO** :
 
@@ -7,13 +8,13 @@
 
 **INTRODUCCIÓN**
 
-El rendimiento de una aeronave es crucial para evaluar la disponibilidad de una misión, también para comparar aeronaves y decidir cuál es más adecuada para una misión determinada
+El rendimiento de una aeronave es crucial para evaluar la disponibilidad de una misión, también para comparar aeronaves y decidir cuál es más adecuada para una tarea determinada
 
-Las aeronaves deben poder operar de manera segura durante todo su régimen de vuelo de tal manera que se obtenga un resultado seguro a partir de fallas específicas que ocurran en cualquier punto a lo largo del rango de vuelo.
+Las aeronaves deben poder operar de manera segura durante todo su régimen de vuelo de tal manera que se obtenga un resultado seguro a partir de fallas específicas que ocurran en cualquier punto a lo largo del rango de vuelo, por tanto, dependiendo de lo requerido para ciertas características, el clasificador a diseñar permite clarificar que tipo de motor se utiliza dadas unas condiciones o especificaciones de la aeronave.
 
 **Dataset**
 
-El conjunto de datos seleccionado contiene 861 aviones y sus características, como velocidad máxima, velocidad de crucero, alcance, etc. Para el análisis de datos el dataset cuenta con muchos valores faltantes, diferentes formatos de datos y unidades para las mismas características.
+El conjunto de datos seleccionado contiene 861 aviones y sus características, como velocidad máxima, velocidad de crucero, alcance, etc. Para el análisis de datos el dataset cuenta con muchos valores faltantes, diferentes formatos de datos y unidades para las mismas características. En cuanto a las etiquetas, estas estarán nombradas como "Engine Type" las cuales, son 3 clases que más adelante se explicarán a que corresponde cada una.
 
 **Características:**
 
@@ -21,7 +22,7 @@ Modelo: Nombre del avión.
 
 Empresa: Nombre de la empresa.
 
-Tipo de motor: Tipo de motor utilizado en el avión.
+Tipo de motor: Tipo de motor utilizado en el avión (Etiquetas).
 
 Motor HP o lbs thr ea: Potencia del eje o empuje para la atmósfera estándar internacional (ISA). Unidades: HP o lbf.
 
