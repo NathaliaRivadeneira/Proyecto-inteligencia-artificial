@@ -99,7 +99,7 @@ Se realizaron pruebas con 5 diferentes clasificadores utilizando el método grid
 
 - Máquinas de soporte vectorial (SVM)
 
-![](RackMultipart20220531-1-vk2fnn_html_2eb74c42747a8f27.png)
+![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/maquinas%20de%20sop%20vec%20p.PNG)
 
 - KNN – K vecinos más cercanos
 
