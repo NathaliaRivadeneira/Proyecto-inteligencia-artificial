@@ -111,7 +111,7 @@ Se realizaron pruebas con 5 diferentes clasificadores utilizando el método grid
 
 - Redes neuronales
 
-![](RackMultipart20220531-1-vk2fnn_html_72ae4896879b5855.png)
+![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/perceptron%20mp.PNG)
 
 **CONCLUSIONES**
 
