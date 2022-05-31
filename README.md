@@ -107,7 +107,7 @@ Se realizaron pruebas con 5 diferentes clasificadores utilizando el método grid
 
 - Naive bayes gausiano
 
-![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/naive%20bayes%20p.PNG)
+![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/Imagenes/naive%20bayes%20p.PNG)
 
 - Redes neuronales
 
