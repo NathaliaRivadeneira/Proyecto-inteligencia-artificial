@@ -95,7 +95,7 @@ Se realizaron pruebas con 5 diferentes clasificadores utilizando el método grid
 
 - Regresión logística
 
-![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/regresion%20logistica%20p.PNG)
+![](https://github.com/NathaliaRivadeneira/Proyecto-inteligencia-artificial/blob/main/Imagenes/regresion%20logistica%20p.PNG)
 
 - Máquinas de soporte vectorial (SVM)
 
